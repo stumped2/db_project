@@ -6,8 +6,8 @@
 </head>
 <body>
 <?php include_once 'functions/functions.php';
-	$con;
-	dbcon($conn);
+	//$con;
+	//dbcon($conn);
 ?>
 	<div id="head-container">
 		<div id="header">

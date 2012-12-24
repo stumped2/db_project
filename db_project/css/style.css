@@ -1,13 +1,13 @@
 #head-container {
 	color: #000;
-	background: #ccc;
+	background: #669999;
 }
 
 #header {
 	margin: 0 auto;
 	width: 860px;
 	padding: 20px;
-	background: #ddd;
+	background: #99cccc;
 }
 
 #header h1 {
@@ -46,14 +46,14 @@
 }
 
 #navigation li a:hover {
-	background: #383;
+	background: #6699cc;
 }
 
 #content-container {
 	float: left;
 	width: 100%;
 	color: #000;
-	background: #eee;
+	background: #669999;
 }
 
 #content-container2 {
