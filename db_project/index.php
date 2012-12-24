@@ -5,6 +5,10 @@
 <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
+<?php include_once 'functions/functions.php';
+	$con;
+	dbcon($conn);
+?>
 	<div id="head-container">
 		<div id="header">
 			<h1>Cloud Storage Services Inc.</h1>
@@ -15,8 +19,8 @@
 			<ul>
 				<li><a href="input/userin.php">Add User</a></li>
 				<li><a href="views/userview.php">User Information</a></li>
-				<li><a href="views/storageview.php">Storage Statistics</a></li>
-				<li><a href="views/tierview.php">Tier Statistics</a></li>
+				<li><a href="views/storageview.php">Storage Information</a></li>
+				<li><a href="views/tierview.php">Tier Information</a></li>
 			</ul>
 		</div>
 	</div>
@@ -43,5 +47,5 @@
 			</div>
 		</div>
 	</div>
-</body>
+	</body>
 </html>
