@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html lang=en>
+<head>
+<link rel="stylesheet" type="text/css" href="../css/style.css">
+</head>
 <body>
 	<div id="head-container">
 		<div id="header">
@@ -29,8 +32,6 @@
 			<div id="footer">
 				Copyright © Cloud Services Inc., 2012 
 				<br>
-				Please contact the webmaster <a href= "mailto:yourapanzy91@gmail.com">yourapanzy91@gmail.com</a>
-				if you encouter any issues. 
 			</div>
 		</div>
 	</div>

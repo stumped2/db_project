@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html lang=en>
+<title>Cloud Storage Database</title>
+<head>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
 <body>
 	<div id="head-container">
 		<div id="header">
@@ -21,24 +25,21 @@
 			<div id="content-container3">
 				<div id="content">
 					<h2>Weclome!</h2>
-					
-					<p>This page is for managing subscribers of
-					   Cloud Storage Services. You will be able to add or remove users,
-					   modify account standing of users andmodify the subscription details
-					   associated with the user.</p>
-					
+
+					<p>This page is for managing subscribers of Cloud Storage Services.
+						You will be able to add or remove users, modify account standing
+						of users andmodify the subscription details associated with the
+						user.</p>
+
 					<p>Use the navigation ribbon above to go to where you need.</p>
-					   
+
 				</div>
 
 			</div>
 		</div>
 		<div id="footer-container">
 			<div id="footer">
-				Copyright © Cloud Services Inc., 2012 
-				<br>
-				Please contact the webmaster <a href= "mailto:yourapanzy91@gmail.com">yourapanzy91@gmail.com</a>
-				if you encouter any issues.
+				Copyright © Cloud Services Inc., 2012 <br>
 			</div>
 		</div>
 	</div>
