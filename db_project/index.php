@@ -11,8 +11,8 @@
 			<ul>
 				<li><a href="input/userin.php">Add User</a></li>
 				<li><a href="views/userview.php">User Information</a></li>
-				<li><a href="#">Storage Statistics</a></li>
-				<li><a href="#">Tier Statistics</a></li>
+				<li><a href="views/storageview.php">Storage Statistics</a></li>
+				<li><a href="views/tierview.php">Tier Statistics</a></li>
 			</ul>
 		</div>
 	</div>
@@ -38,7 +38,7 @@
 				Copyright © Cloud Services Inc., 2012 
 				<br>
 				Please contact the webmaster <a href= "mailto:yourapanzy91@gmail.com">yourapanzy91@gmail.com</a>
-					   if you encouter any issues.
+				if you encouter any issues.
 			</div>
 		</div>
 	</div>
